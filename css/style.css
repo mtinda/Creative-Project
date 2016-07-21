@@ -802,6 +802,11 @@ ul.profile li {
     border: 1px solid #fff;
 }
 
+.test-img{
+    margin-left: -50px;
+    padding-top: 4px;
+}
+
 #tf-testimonials h3{
     font-size: 20px;
     color: #716b6c;
